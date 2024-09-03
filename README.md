@@ -1,9 +1,7 @@
 <h1 align="center">Greetings, I'm Magnus Hinge</h1>
 <h3 align="center">A CS student from Denmark. Currently studying technologies and design at HTX Aabenraa.</h3>
 
-- 🌱 I’m currently learning **UI/UX, vim, Java, Godot Git**
-
-- 📫 How to reach me **Magnus.hinge.professional@gmail.com**
+- 🌱 Studying design and product development 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
